@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Global Styles for Nulogy Design System",
   "main": "dist/main.js",
+  "module": "src/index.js",
   "repository": "https://github.com/nulogy/design-system",
   "author": "Nulogy <info@nulogy.com> (https://github.com/nulogy)",
   "license": "MIT",

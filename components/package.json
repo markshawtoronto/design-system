@@ -25,6 +25,7 @@
     "node": "*"
   },
   "main": "dist/main.js",
+  "module": "src/index.js",
   "scripts": {
     "start": "start-storybook -p 9009",
     "build": "webpack --mode production --config webpack.config.js",
